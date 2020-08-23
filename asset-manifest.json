@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/necoletest/static/css/main.a99c83c9.chunk.css",
+    "main.js": "/necoletest/static/js/main.90db6096.chunk.js",
+    "main.js.map": "/necoletest/static/js/main.90db6096.chunk.js.map",
+    "runtime-main.js": "/necoletest/static/js/runtime-main.c3e2e4c6.js",
+    "runtime-main.js.map": "/necoletest/static/js/runtime-main.c3e2e4c6.js.map",
+    "static/css/2.b0d70484.chunk.css": "/necoletest/static/css/2.b0d70484.chunk.css",
+    "static/js/2.65e4d2ae.chunk.js": "/necoletest/static/js/2.65e4d2ae.chunk.js",
+    "static/js/2.65e4d2ae.chunk.js.map": "/necoletest/static/js/2.65e4d2ae.chunk.js.map",
+    "index.html": "/necoletest/index.html",
+    "precache-manifest.50f51e71731efbfdf7b7c438e558572f.js": "/necoletest/precache-manifest.50f51e71731efbfdf7b7c438e558572f.js",
+    "service-worker.js": "/necoletest/service-worker.js",
+    "static/css/2.b0d70484.chunk.css.map": "/necoletest/static/css/2.b0d70484.chunk.css.map",
+    "static/css/main.a99c83c9.chunk.css.map": "/necoletest/static/css/main.a99c83c9.chunk.css.map",
+    "static/js/2.65e4d2ae.chunk.js.LICENSE.txt": "/necoletest/static/js/2.65e4d2ae.chunk.js.LICENSE.txt",
+    "static/media/L52.gif": "/necoletest/static/media/L52.d514bf35.gif",
+    "static/media/style.scss": "/necoletest/static/media/using-phone.0f4662c7.png",
+    "static/media/gif-banner.gif": "/necoletest/static/media/gif-banner.65bed1d9.gif",
+    "static/media/joyee-cropped.png": "/necoletest/static/media/joyee-cropped.b4897ee0.png",
+    "static/media/logo-icon-white.png": "/necoletest/static/media/logo-icon-white.4d1e447a.png",
+    "static/media/necole-video.mp4": "/necoletest/static/media/necole-video.95751ec6.mp4",
+    "static/media/nizam-cropped.png": "/necoletest/static/media/nizam-cropped.2235ee21.png",
+    "static/media/parthi-cropped.png": "/necoletest/static/media/parthi-cropped.ec5b8784.png",
+    "static/media/phone-1.gif": "/necoletest/static/media/phone-1.ede0fef6.gif",
+    "static/media/phone-2.gif": "/necoletest/static/media/phone-2.2a9c1b04.gif",
+    "static/media/phone-3.gif": "/necoletest/static/media/phone-3.c00e1488.gif",
+    "static/media/shasi-cropped.png": "/necoletest/static/media/shasi-cropped.00855774.png",
+    "static/media/traits-logo.png": "/necoletest/static/media/traits-logo.7a6fb219.png",
+    "static/media/video-placeholder.png": "/necoletest/static/media/video-placeholder.bf196634.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3e2e4c6.js",
+    "static/css/2.b0d70484.chunk.css",
+    "static/js/2.65e4d2ae.chunk.js",
+    "static/css/main.a99c83c9.chunk.css",
+    "static/js/main.90db6096.chunk.js"
+  ]
+}
